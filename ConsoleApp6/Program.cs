@@ -16,6 +16,8 @@ namespace ConsoleApp6
                 Console.WriteLine("Привет мир");
             }
             if (true) Console.WriteLine("bvkfdjv");
+            if (true) Console.WriteLine("bvkfdjv");
+
         }
     }
 }
