@@ -7,6 +7,10 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Привет мир");
+            }
         }
     }
 }
