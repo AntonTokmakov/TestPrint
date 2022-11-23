@@ -11,3 +11,4 @@ C:\Users\anton\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\Cons
 C:\Users\anton\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.dll
 C:\Users\anton\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.pdb
 C:\Users\anton\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.genruntimeconfig.cache
+C:\Users\anton\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csproj.AssemblyReference.cache
